@@ -1,0 +1,2 @@
+# stickShorts-assets
+self explanatory
