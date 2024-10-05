@@ -1,0 +1,4 @@
+episodes wont show their actual episode number cause
+its a season episode
+so ep 1 of season-2 folder won't be ep-7
+that would be confusing
